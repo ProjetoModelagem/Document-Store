@@ -1,9 +1,9 @@
 ## Integrantes do Grupo
 - **Guilherme de Abreu** - Matrícula: 22.222.028-7
 
-# Projeto do semestre passado
+## Projeto do semestre passado
 
-- [link](https://github.com/GuizinhoAB/Modelo-de-Banco-de-Dados/tree/main)
+- [Projeto](https://github.com/GuizinhoAB/Modelo-de-Banco-de-Dados/tree/main)
 
 ## Descrição do Projeto
 Este projeto faz a migração de dados de um banco de dados PostgreSQL para um banco de dados NoSQL, o MongoDB. Ele pega as informações de alunos, professores, cursos, departamentos, disciplinas e grupos de TCC e as insere em coleções no MongoDB.
